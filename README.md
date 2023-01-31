@@ -44,7 +44,6 @@ Co-founder of Blockus and content creator building my version of the digital wor
 
 ### 📊 Blockus
 ![alt text](./Blockus.png)
-
 #
 
 <details>
