@@ -1,10 +1,10 @@
 # 🏄‍♂️ Audran Lemaitre
 
-**`French Digital Craftsman (Love web3 & Finance)`**
+**`French Digital Craftsman (Love web3 & Finance)📊🛠️`**
 
-Co-founder of Blockus and content creator building my version of the digital world one step at a time. I am exploring new way of building financial and banking applications to solve real-life problems with code. I share this passion through my public videos and formations with Blockus. I also write technical articles on the HelloToken media. 
+Co-founder of Blockus and content creator building my version of the digital world one step at a time. I am exploring new way of building financial and banking applications to solve real-life problems with code. I share this passion through my public videos and formations with Blockus. I also write technical articles on the HelloToken media.
 
----
+#
 
 ### 🧰 Languages and Tools
 
@@ -16,15 +16,17 @@ Co-founder of Blockus and content creator building my version of the digital wor
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Solidity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" />
 
-        
 #
 
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![BITCOIN: la MONNAIE de demain? Trop tard pour en ACHETER?](https://ytcards.demolab.com/?id=fFsscuRymvA&title=BITCOIN+la+MONNAIE+de+demain+Trop+tard+pour+en+ACHETER&lang=en&timestamp=1671555624&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=647 "BITCOIN: la MONNAIE de demain? Trop tard pour en ACHETER?")](https://www.youtube.com/watch?v=fFsscuRymvA)
-[![WEB 3, une grosse ARNAQUE ou l'OPPORTUNITÉ de votre vie?](https://ytcards.demolab.com/?id=Ov1tuHS4uNw&title=The+Actual+Way+to+Code+Productively+%26+Professionally&lang=en&timestamp=1669140023&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=535 "WEB 3, une grosse ARNAQUE ou l'OPPORTUNITÉ de votre vie?")](https://www.youtube.com/watch?v=0ieHJy7zISo&t=46s)
-[![L'ERREUR que tu ne dois pas COMMETTRE en trading - MITIGATION](https://ytcards.demolab.com/?id=b0pkpcD8Ms4&title=How+to+Build+a+Minimal+Developer+Portfolio+Website+Using+React+%2B+Tailwind+%2B+Vite&lang=en&timestamp=1668434431&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=4119 "L'ERREUR que tu ne dois pas COMMETTRE en trading - MITIGATION")](https://www.youtube.com/watch?v=ccrRQ5xSHAs&t=7s)
+[![BITCOIN: the CURRENCY of tomorrow? Too late to BUY?](https://ytcards.demolab.com/?id=fFsscuRymvA&title=BITCOIN:+the+CURRENCY+of+tomorrow?+Too+late+to+BUY?&lang=fr&timestamp=1671555624&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=647 "BITCOIN: la MONNAIE de demain? Trop tard pour en ACHETER?")](https://www.youtube.com/watch?v=fFsscuRymvA)
+[![WEB 3, une grosse ARNAQUE ou l'OPPORTUNITÉ de votre vie?](https://ytcards.demolab.com/?id=0ieHJy7zISo&t=46s&title=WEB3,+a+big+scam+or+the+OPPORTUNITY+of+your+life&lang=fr&timestamp=1669140023&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=535 "WEB 3, une grosse ARNAQUE ou l'OPPORTUNITÉ de votre vie?")](https://www.youtube.com/watch?v=0ieHJy7zISo&t=46s)
+[![L'ERREUR que tu ne dois pas COMMETTRE en trading - MITIGATION](https://ytcards.demolab.com/?id=ccrRQ5xSHAs&t=7s&title=The+mistake+you+should+not+make+in+trading+MITIGATION&lang=fr&timestamp=1668434431&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=4119 "L'ERREUR que tu ne dois pas COMMETTRE en trading - MITIGATION")](https://www.youtube.com/watch?v=ccrRQ5xSHAs&t=7s)
+[![EXPLANATION of my TRADE technique](https://ytcards.demolab.com/?id=3IhjMbqiExs&t=3s&title=EXPLANATION+of+my+TRADE+technique&lang=fr&timestamp=1671555624&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=647 "EXPLANATION of my TRADE technique")](https://www.youtube.com/watch?v=3IhjMbqiExs&t=3s)
+[![Is this the end for crypto? Trend Analysis](https://ytcards.demolab.com/?id=2oTQZ0C0hUA&t=23s&title=Is+this+the+end+for+crypto?+Trend+Analysis&lang=fr&timestamp=1669140023&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=535 "Is this the end for crypto? Trend Analysis?")](https://www.youtube.com/watch?v=2oTQZ0C0hUA&t=23s)
+[![ANTICIPATE THE FUTURE IN TRADING - Study volume liquidity](https://ytcards.demolab.com/?id=68Y88F3hyKU&t=719s&title=ANTICIPATE+THE+FUTURE+IN+TRADING+Study+volume+liquidity&lang=fr&timestamp=1668434431&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=4119 "ANTICIPATE THE FUTURE IN TRADING - Study volume liquidity")](https://www.youtube.com/watch?v=68Y88F3hyKU&t=719s)
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@Blockus)
