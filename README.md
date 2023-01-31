@@ -34,8 +34,9 @@ Co-founder of Blockus and content creator building my version of the digital wor
 
 #
 
-###🔮 Learn more about Blockus
+### 🔮 Learn more about Blockus
 ![alt text](./Blockus.png)
+
 [website]: https://blockuslearn.editorx.io/blockus/
 #
 
