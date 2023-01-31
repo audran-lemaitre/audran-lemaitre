@@ -44,7 +44,7 @@ I am passionate about the different uses that these same technologies can have i
 Moreover, I am always looking for new ways to enrich my knowledge, meet new people and create impactful projects. I am notably invested in the web3 ecosystem as a writer at HelloToken. I'm also learning to code dApps to deepen my technical knowledge.
 
 Feel free to contact me if you are interested in these topics!
-
----
+ 
 [LinkedIn]: https://www.linkedin.com/in/audranlemaitre/
 [HelloToken]: https://hellotoken.io/
+---
