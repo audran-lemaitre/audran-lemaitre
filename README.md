@@ -15,6 +15,7 @@ Co-founder of Blockus and content creator building my version of the digital wor
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Solidity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" />
+<br/>
 
 #
 
@@ -33,8 +34,9 @@ Co-founder of Blockus and content creator building my version of the digital wor
 
 #
 
-### 📊 Blockus
+###🔮 Learn more about Blockus
 ![alt text](./Blockus.png)
+[website]: https://blockuslearn.editorx.io/blockus/
 #
 
 <details>
@@ -49,7 +51,5 @@ Moreover, I am always looking for new ways to enrich my knowledge, meet new peop
 Feel free to contact me if you are interested in these topics!
 
 ---
-[website]: https://blockuslearn.editorx.io/blockus/
-[youtube]: https://www.youtube.com/@Blockus
 [LinkedIn]: https://www.linkedin.com/in/audranlemaitre/
 [HelloToken]: https://hellotoken.io/
