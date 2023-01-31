@@ -5,7 +5,7 @@
 Co-founder of Blockus and content creator building my version of the digital world one step at a time. I am exploring new way of building financial and banking applications to solve real-life problems with code. I share this passion through my public videos and formations with Blockus. I also write technical articles on the HelloToken media.
 
 <div> 
-  <a href = "mailto:audran.lemaitre@icloud.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:audran.lemaitre@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/audranlemaitre/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
