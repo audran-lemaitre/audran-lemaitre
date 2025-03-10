@@ -1,6 +1,6 @@
-# 🏄‍♂️ Audran Lemaitre
+# Audran Lemaitre
 
-**`French Digital Craftsman (Love web3 & Finance)📊🛠️`**
+**`French Digital Craftsman (Love web3 & Finance)`**
 
 Co-founder of Blockus and content creator building my version of the digital world one step at a time. I am exploring new way of building financial and banking applications to solve real-life problems with code. I share this passion through my public videos and formations with Blockus. I also write technical articles on the HelloToken media.
 
